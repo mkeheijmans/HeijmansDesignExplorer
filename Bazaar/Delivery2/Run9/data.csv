@@ -1,4 +1,4 @@
-in:VertDyn,in:HghtMstr,in:HghtE1Bc,in:HghtE1Pa,out:# Woningen,out:PB_tot,out:PB_E1,out:PB_E2,out:PB_NormBloksPos,out:PB E1Bb+Bc+Pa,out:PB_probsolved,out:PB_E1A,out:PB_E1B,out:PB_E1C,out:PB_E2A,out:PB_E2B,out:PB_E2C,out:PB_P1,img
+in:VertDyn,in:HghtMstr,in:HghtE1Bc,in:HghtE1Pa,out:# Woningen,out:PB_tot,out:PB_E1,out:PB_E2,out:PB_NormBloksPos,out:PB E1Bb+Bc+Pa,out:PB_probsolved,out:PB_E1Ba,out:PB_E1Bb,out:PB_E1Bc,out:PB_E2Ba,out:PB_E2Bb,out:PB_E2Bc,out:PB_E1Pa,img
 4,7,5,4,1272,126,-59,185,False,-57,False,-2,34,-42,48,50,87,-49,VertDyn4_HghtMstr7_HghtE1Bc5_HghtE1Pa4_Birdseye_AL3.png
 2,6,3,0,879,360,36,324,True,14,True,22,48,-8,108,91,125,-26,VertDyn2_HghtMstr6_HghtE1Bc3_HghtE1Pa0_Birdseye_AL3.png
 3,6,3,0,998,290,36,254,True,14,True,22,48,-8,78,70,106,-26,VertDyn3_HghtMstr6_HghtE1Bc3_HghtE1Pa0_Birdseye_AL3.png

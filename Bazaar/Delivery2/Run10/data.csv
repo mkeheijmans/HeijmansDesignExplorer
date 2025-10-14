@@ -1,4 +1,4 @@
-in:Config,in:VertDyn,in:HghtMstr,in:HghtPortiek(en),out:# Woningen,out:PB_tot,out:PB_E1,out:PB_E2,out:PB_NormBloksPos,out:PB E1Bb+Bc+Pa,out:PB_probsolved,out:PB_E1A,out:PB_E1B,out:PB_E1C,out:PB_E2A,out:PB_E2B,out:PB_E2C,out:PB_P1,img
+in:Config,in:VertDyn,in:HghtMstr,in:HghtPortiek(en),out:# Woningen,out:PB_tot,out:PB_E1,out:PB_E2,out:PB_NormBloksPos,out:PB E1Bb+Bc+Pa,out:PB_probsolved,out:PB_E1Ba,out:PB_E1Bb,out:PB_E1Bc,out:PB_E2Ba,out:PB_E2Bb,out:PB_E2Bc,out:PB_E1Pa,img
 4,4,7,4,1289,96,-86,182,False,-35,False,-2,14,48,57,77,-49,-49,Config4_VertDyn4_HghtMstr7_HghtPortiek(en)4_Birdseye_AL3.png
 0,2,6,0,938,326,2,324,True,-20,False,22,48,-42,108,91,125,-26,Config0_VertDyn2_HghtMstr6_HghtPortiek(en)0_Birdseye_AL3.png
 1,2,6,0,885,329,18,311,True,-29,False,47,44,-47,100,100,111,-26,Config1_VertDyn2_HghtMstr6_HghtPortiek(en)0_Birdseye_AL3.png
