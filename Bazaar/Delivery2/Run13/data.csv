@@ -1,0 +1,73 @@
+in:Variant,in:HghtAvgGal,in:HghtAvgCorridor(s),in:HghtAvgPortieken,out:# Woningen,out:PB_tot,out:PB_E1Ba,out:PB_E1Bb,out:PB_E2Ba,out:PB_E2Bb,out:PB_E2Bc,out:PB_E1_CombiBlok,out:PB_AllBlocksPos,img
+Galerij,7,6,11,1084,79,10,33,30,1,5,0,True,VariantGalerij_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL6.png
+Galerij,5,5,8,835,248,28,69,78,50,23,0,True,VariantGalerij_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL6.png
+Portiek,5,5,8,979,162,3,42,42,52,23,0,True,VariantPortiek_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL6.png
+Portiek -P,5,5,8,979,-169,-93,-55,-96,52,23,0,False,VariantPortiek-P_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL6.png
+Galerij,6,5,8,956,163,9,56,54,35,9,0,True,VariantGalerij_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL6.png
+Portiek,6,5,8,1059,107,-7,34,32,39,9,0,False,VariantPortiek_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL6.png
+Portiek -P,6,5,8,1059,-224,-103,-63,-106,39,9,0,False,VariantPortiek-P_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL6.png
+Galerij,7,5,8,1075,78,-10,43,30,20,-5,0,False,VariantGalerij_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL6.png
+Portiek,7,5,8,1141,51,-17,27,21,25,-5,0,False,VariantPortiek_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL6.png
+Portiek -P,7,5,8,1141,-280,-113,-70,-117,25,-5,0,False,VariantPortiek-P_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL6.png
+Galerij,5,6,8,889,217,28,60,78,46,5,0,True,VariantGalerij_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL6.png
+Portiek,5,6,8,1033,131,3,32,42,49,5,0,True,VariantPortiek_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL6.png
+Portiek -P,5,6,8,1033,-200,-93,-65,-96,49,5,0,False,VariantPortiek-P_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL6.png
+Galerij,6,6,8,1009,132,9,47,54,31,-9,0,False,VariantGalerij_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL6.png
+Portiek,6,6,8,1113,76,-7,25,32,35,-9,0,False,VariantPortiek_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL6.png
+Portiek -P,6,6,8,1113,-255,-103,-72,-106,35,-9,0,False,VariantPortiek-P_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL6.png
+Galerij,7,6,8,1128,48,-10,34,30,16,-22,0,False,VariantGalerij_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL6.png
+Portiek,7,6,8,1194,21,-17,17,21,22,-22,0,False,VariantPortiek_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL6.png
+Portiek -P,7,6,8,1194,-310,-113,-80,-117,22,-22,0,False,VariantPortiek-P_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL6.png
+Galerij,5,5,9,775,290,48,54,102,50,36,0,True,VariantGalerij_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL6.png
+Portiek,5,5,9,986,156,2,27,39,52,36,0,True,VariantPortiek_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL6.png
+Portiek -P,5,5,9,986,-175,-94,-70,-99,52,36,0,False,VariantPortiek-P_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL6.png
+Galerij,6,5,9,893,206,29,41,78,35,23,0,True,VariantGalerij_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL6.png
+Portiek,6,5,9,1066,103,-7,20,28,39,23,0,False,VariantPortiek_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL6.png
+Portiek -P,6,5,9,1066,-228,-103,-77,-110,39,23,0,False,VariantPortiek-P_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL6.png
+Galerij,7,5,9,1015,120,10,27,54,20,9,0,True,VariantGalerij_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL6.png
+Portiek,7,5,9,1148,45,-17,12,18,23,9,0,False,VariantPortiek_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL6.png
+Portiek -P,7,5,9,1148,-286,-113,-85,-120,23,9,0,False,VariantPortiek-P_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL6.png
+Galerij,5,6,9,828,261,48,46,102,46,19,0,True,VariantGalerij_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL6.png
+Portiek,5,6,9,1040,127,2,18,39,49,19,0,True,VariantPortiek_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL6.png
+Portiek -P,5,6,9,1040,-204,-94,-79,-99,49,19,0,False,VariantPortiek-P_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL6.png
+Galerij,6,6,9,947,174,29,31,78,31,5,0,True,VariantGalerij_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL6.png
+Portiek,6,6,9,1120,71,-7,10,28,35,5,0,False,VariantPortiek_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL6.png
+Portiek -P,6,6,9,1120,-260,-103,-87,-110,35,5,0,False,VariantPortiek-P_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL6.png
+Galerij,7,6,9,1069,89,10,18,54,16,-9,0,False,VariantGalerij_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL6.png
+Portiek,7,6,9,1202,15,-17,3,18,20,-9,0,False,VariantPortiek_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL6.png
+Portiek -P,7,6,9,1202,-316,-113,-94,-120,20,-9,0,False,VariantPortiek-P_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL6.png
+Galerij,5,5,10,890,210,29,41,54,50,36,0,True,VariantGalerij_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL6.png
+Portiek,5,5,10,1089,89,-17,13,5,52,36,0,False,VariantPortiek_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL6.png
+Portiek -P,5,5,10,1089,-242,-113,-84,-133,52,36,0,False,VariantPortiek-P_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL6.png
+Galerij,6,5,10,1010,125,10,27,30,35,23,0,True,VariantGalerij_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL6.png
+Portiek,6,5,10,1170,33,-28,5,-6,39,23,0,False,VariantPortiek_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL6.png
+Portiek -P,6,5,10,1170,-298,-124,-92,-144,39,23,0,False,VariantPortiek-P_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL6.png
+Galerij,7,5,10,1131,37,-10,13,5,20,9,0,False,VariantGalerij_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL6.png
+Portiek,7,5,10,1251,-24,-38,-2,-16,23,9,0,False,VariantPortiek_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL6.png
+Portiek -P,7,5,10,1251,-355,-134,-99,-154,23,9,0,False,VariantPortiek-P_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL6.png
+Galerij,5,6,10,944,179,29,31,54,46,19,0,True,VariantGalerij_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL6.png
+Portiek,5,6,10,1143,60,-17,4,5,49,19,0,False,VariantPortiek_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL6.png
+Portiek -P,5,6,10,1143,-271,-113,-93,-133,49,19,0,False,VariantPortiek-P_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL6.png
+Galerij,6,6,10,1064,94,10,18,30,31,5,0,True,VariantGalerij_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL6.png
+Portiek,6,6,10,1223,3,-28,-3,-6,35,5,0,False,VariantPortiek_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL6.png
+Portiek -P,6,6,10,1223,-328,-124,-100,-144,35,5,0,False,VariantPortiek-P_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL6.png
+Galerij,7,6,10,1185,6,-10,4,5,16,-9,0,False,VariantGalerij_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL6.png
+Portiek,7,6,10,1305,-54,-38,-11,-16,20,-9,0,False,VariantPortiek_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL6.png
+Portiek -P,7,6,10,1305,-385,-134,-108,-154,20,-9,0,False,VariantPortiek-P_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL6.png
+Galerij,5,5,11,790,279,48,69,78,35,49,0,True,VariantGalerij_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL6.png
+Portiek,5,5,11,1080,92,-18,21,2,38,49,0,False,VariantPortiek_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL6.png
+Portiek -P,5,5,11,1080,-239,-114,-76,-136,38,49,0,False,VariantPortiek-P_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL6.png
+Galerij,6,5,11,910,194,29,55,54,20,36,0,True,VariantGalerij_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL6.png
+Portiek,6,5,11,1161,36,-28,14,-9,23,36,0,False,VariantPortiek_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL6.png
+Portiek -P,6,5,11,1161,-295,-124,-83,-147,23,36,0,False,VariantPortiek-P_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL6.png
+Galerij,7,5,11,1030,110,10,42,30,5,23,0,True,VariantGalerij_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL6.png
+Portiek,7,5,11,1243,-20,-38,6,-19,8,23,0,False,VariantPortiek_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL6.png
+Portiek -P,7,5,11,1243,-351,-134,-91,-157,8,23,0,False,VariantPortiek-P_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL6.png
+Galerij,5,6,11,843,249,48,60,78,31,32,0,True,VariantGalerij_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL6.png
+Portiek,5,6,11,1133,62,-18,12,2,34,32,0,False,VariantPortiek_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL6.png
+Portiek -P,5,6,11,1133,-269,-114,-85,-136,34,32,0,False,VariantPortiek-P_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL6.png
+Galerij,6,6,11,963,164,29,46,54,16,19,0,True,VariantGalerij_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL6.png
+Portiek,6,6,11,1215,6,-28,4,-9,20,19,0,False,VariantPortiek_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL6.png
+Portiek -P,6,6,11,1215,-325,-124,-93,-147,20,19,0,False,VariantPortiek-P_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL6.png
+Portiek,7,6,11,1296,-50,-38,-3,-19,5,5,0,False,VariantPortiek_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL6.png
+Portiek -P,7,6,11,1296,-381,-134,-100,-157,5,5,0,False,VariantPortiek-P_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL6.png
