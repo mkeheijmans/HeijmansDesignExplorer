@@ -1,0 +1,73 @@
+﻿in:Variant;in:HghtAvgGal;in:HghtAvgCorridor(s);in:HghtAvgPortieken;out:# Woningen;out:PB_tot;out:PB_E1Ba;out:PB_E1Bb;out:PB_E2Ba;out:PB_E2Bb;out:PB_E2Bc;out:PB_E1_CombiBlok;out:PB_AllBlocksPos;img
+Portiek Rand;6;5;8;1051;117;3;27;21;52;14;0;True;Variant1_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL5.png
+Galerij Rand;5;5;8;838;248;48;54;54;65;27;0;True;Variant0_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL5.png
+Portiek Rand;5;5;8;969;173;13;34;32;67;27;0;True;Variant1_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL5.png
+Portiek Rand - P;5;5;8;969;-158;-83;-63;-106;67;27;0;False;Variant2_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL5.png
+Galerij Rand;6;5;8;957;166;30;42;30;50;14;0;True;Variant0_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL5.png
+Portiek Rand - P;6;5;8;1051;-214;-93;-70;-117;52;14;0;False;Variant2_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL5.png
+Galerij Rand;7;5;8;1078;77;10;27;5;35;0;0;True;Variant0_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL5.png
+Portiek Rand;7;5;8;1130;62;-7;19;11;39;0;0;False;Variant1_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL5.png
+Portiek Rand - P;7;5;8;1130;-269;-103;-78;-127;39;0;0;False;Variant2_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken8_Birdseye_AL5.png
+Galerij Rand;5;6;8;868;232;48;50;54;61;19;0;True;Variant0_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL5.png
+Portiek Rand;5;6;8;999;158;13;30;32;64;19;0;True;Variant1_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL5.png
+Portiek Rand - P;5;6;8;999;-173;-83;-67;-106;64;19;0;False;Variant2_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL5.png
+Galerij Rand;6;6;8;987;148;30;37;30;46;5;0;True;Variant0_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL5.png
+Portiek Rand;6;6;8;1081;100;3;22;21;49;5;0;True;Variant1_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL5.png
+Portiek Rand - P;6;6;8;1081;-231;-93;-75;-117;49;5;0;False;Variant2_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL5.png
+Galerij Rand;7;6;8;1108;60;10;23;5;31;-9;0;False;Variant0_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL5.png
+Portiek Rand;7;6;8;1160;44;-7;14;11;35;-9;0;False;Variant1_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL5.png
+Portiek Rand - P;7;6;8;1160;-287;-103;-83;-127;35;-9;0;False;Variant2_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken8_Birdseye_AL5.png
+Galerij Rand;5;5;9;838;248;48;54;54;65;27;0;True;Variant0_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL5.png
+Portiek Rand;5;5;9;1014;141;2;27;18;67;27;0;True;Variant1_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL5.png
+Portiek Rand - P;5;5;9;1014;-190;-94;-70;-120;67;27;0;False;Variant2_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL5.png
+Galerij Rand;6;5;9;957;166;30;42;30;50;14;0;True;Variant0_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL5.png
+Portiek Rand;6;5;9;1094;87;-7;20;8;52;14;0;False;Variant1_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL5.png
+Portiek Rand - P;6;5;9;1094;-244;-103;-77;-130;52;14;0;False;Variant2_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL5.png
+Galerij Rand;7;5;9;1078;77;10;27;5;35;0;0;True;Variant0_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL5.png
+Portiek Rand;7;5;9;1175;32;-17;12;-2;39;0;0;False;Variant1_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL5.png
+Portiek Rand - P;7;5;9;1175;-299;-113;-85;-140;39;0;0;False;Variant2_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken9_Birdseye_AL5.png
+Galerij Rand;5;6;9;868;232;48;50;54;61;19;0;True;Variant0_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL5.png
+Portiek Rand;5;6;9;1044;126;2;23;18;64;19;0;True;Variant1_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL5.png
+Portiek Rand - P;5;6;9;1044;-205;-94;-74;-120;64;19;0;False;Variant2_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL5.png
+Galerij Rand;6;6;9;987;148;30;37;30;46;5;0;True;Variant0_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL5.png
+Portiek Rand;6;6;9;1124;70;-7;15;8;49;5;0;False;Variant1_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL5.png
+Portiek Rand - P;6;6;9;1124;-261;-103;-82;-130;49;5;0;False;Variant2_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL5.png
+Galerij Rand;7;6;9;1108;60;10;23;5;31;-9;0;False;Variant0_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL5.png
+Portiek Rand;7;6;9;1205;15;-17;8;-2;35;-9;0;False;Variant1_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL5.png
+Portiek Rand - P;7;6;9;1205;-316;-113;-89;-140;35;-9;0;False;Variant2_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken9_Birdseye_AL5.png
+Galerij Rand;5;5;10;838;248;48;54;54;65;27;0;True;Variant0_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL5.png
+Portiek Rand;5;5;10;1057;113;-7;21;5;67;27;0;False;Variant1_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL5.png
+Portiek Rand - P;5;5;10;1057;-218;-103;-76;-133;67;27;0;False;Variant2_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL5.png
+Galerij Rand;6;5;10;957;166;30;42;30;50;14;0;True;Variant0_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL5.png
+Portiek Rand;6;5;10;1139;56;-17;13;-6;52;14;0;False;Variant1_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL5.png
+Portiek Rand - P;6;5;10;1139;-275;-113;-84;-144;52;14;0;False;Variant2_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL5.png
+Galerij Rand;7;5;10;1078;77;10;27;5;35;0;0;True;Variant0_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL5.png
+Portiek Rand;7;5;10;1220;0;-28;5;-16;39;0;0;False;Variant1_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL5.png
+Portiek Rand - P;7;5;10;1220;-331;-124;-92;-154;39;0;0;False;Variant2_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken10_Birdseye_AL5.png
+Galerij Rand;5;6;10;868;232;48;50;54;61;19;0;True;Variant0_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL5.png
+Portiek Rand;5;6;10;1087;97;-7;16;5;64;19;0;False;Variant1_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL5.png
+Portiek Rand - P;5;6;10;1087;-234;-103;-81;-133;64;19;0;False;Variant2_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL5.png
+Galerij Rand;6;6;10;987;148;30;37;30;46;5;0;True;Variant0_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL5.png
+Portiek Rand;6;6;10;1169;39;-17;8;-6;49;5;0;False;Variant1_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL5.png
+Portiek Rand - P;6;6;10;1169;-292;-113;-89;-144;49;5;0;False;Variant2_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL5.png
+Galerij Rand;7;6;10;1108;60;10;23;5;31;-9;0;False;Variant0_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL5.png
+Portiek Rand;7;6;10;1250;-17;-28;1;-16;35;-9;0;False;Variant1_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL5.png
+Portiek Rand - P;7;6;10;1250;-348;-124;-96;-154;35;-9;0;False;Variant2_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken10_Birdseye_AL5.png
+Galerij Rand;5;5;11;838;248;48;54;54;65;27;0;True;Variant0_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL5.png
+Portiek Rand;5;5;11;1102;81;-18;14;-9;67;27;0;False;Variant1_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL5.png
+Portiek Rand - P;5;5;11;1102;-250;-114;-83;-147;67;27;0;False;Variant2_HghtAvgGal5_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL5.png
+Galerij Rand;6;5;11;957;166;30;42;30;50;14;0;True;Variant0_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL5.png
+Portiek Rand;6;5;11;1184;25;-28;6;-19;52;14;0;False;Variant1_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL5.png
+Portiek Rand - P;6;5;11;1184;-306;-124;-91;-157;52;14;0;False;Variant2_HghtAvgGal6_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL5.png
+Galerij Rand;7;5;11;1078;77;10;27;5;35;0;0;True;Variant0_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL5.png
+Portiek Rand;7;5;11;1264;-30;-38;-1;-30;39;0;0;False;Variant1_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL5.png
+Portiek Rand - P;7;5;11;1264;-361;-134;-98;-168;39;0;0;False;Variant2_HghtAvgGal7_HghtAvgCorridor(s)5_HghtAvgPortieken11_Birdseye_AL5.png
+Galerij Rand;5;6;11;868;232;48;50;54;61;19;0;True;Variant0_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL5.png
+Portiek Rand;5;6;11;1132;65;-18;9;-9;64;19;0;False;Variant1_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL5.png
+Portiek Rand - P;5;6;11;1132;-266;-114;-88;-147;64;19;0;False;Variant2_HghtAvgGal5_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL5.png
+Galerij Rand;6;6;11;987;148;30;37;30;46;5;0;True;Variant0_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL5.png
+Portiek Rand;6;6;11;1214;8;-28;1;-19;49;5;0;False;Variant1_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL5.png
+Portiek Rand - P;6;6;11;1214;-323;-124;-96;-157;49;5;0;False;Variant2_HghtAvgGal6_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL5.png
+Galerij Rand;7;6;11;1108;60;10;23;5;31;-9;0;False;Variant0_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL5.png
+Portiek Rand;7;6;11;1294;-48;-38;-6;-30;35;-9;0;False;Variant1_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL5.png
+Portiek Rand - P;7;6;11;1294;-379;-134;-103;-168;35;-9;0;False;Variant2_HghtAvgGal7_HghtAvgCorridor(s)6_HghtAvgPortieken11_Birdseye_AL5.png
